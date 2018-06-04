@@ -2,8 +2,8 @@
 Changelog for package rrbot_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.2 (2018-06-04)
+------------------
 * Add catkin_package to rrbot_launch
 * Contributors: Victor Lopez
 
