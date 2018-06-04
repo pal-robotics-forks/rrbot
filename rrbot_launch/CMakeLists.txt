@@ -6,6 +6,7 @@ project(rrbot_launch)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED)
 
+catkin_package()
 
 install(DIRECTORY launch
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
