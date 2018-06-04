@@ -2,6 +2,11 @@
 Changelog for package rrbot_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add catkin_package to rrbot_launch
+* Contributors: Victor Lopez
+
 1.0.1 (2018-06-04)
 ------------------
 * Install rrbot_launch launch directory

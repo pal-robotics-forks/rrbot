@@ -2,6 +2,9 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.1 (2018-06-04)
 ------------------
 * Install libraries and executables
