@@ -92,3 +92,10 @@ target_link_libraries(rrbot_hw_real_node
   rrbot_hw_real
   ${catkin_LIBRARIES}
 )
+
+install(TARGETS
+  default_rrbot_hw_sim rrbot_hw_sim_plugin rrbot_hw_real rrbot_hw_real_node
+  ARCHIVE DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+  LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+  RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
+)
