@@ -2,6 +2,11 @@
 Changelog for package rrbot_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add joint_state_publisher dependency
+* Contributors: Victor Lopez
+
 1.0.2 (2018-06-04)
 ------------------
 * Add catkin_package to rrbot_launch

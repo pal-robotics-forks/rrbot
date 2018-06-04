@@ -2,6 +2,9 @@
 Changelog for package rrbot_transmission
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.2 (2018-06-04)
 ------------------
 
