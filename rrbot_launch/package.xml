@@ -43,6 +43,7 @@
   <run_depend>controller_manager</run_depend>
   <run_depend>robot_state_publisher</run_depend>
   <run_depend>rrbot_description</run_depend>
+  <run_depend>joint_state_publisher</run_depend>
   <run_depend>gazebo_ros</run_depend>
   <run_depend>xacro</run_depend>
   <run_depend>rrbot_hw</run_depend>
