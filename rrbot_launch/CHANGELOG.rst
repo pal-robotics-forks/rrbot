@@ -2,8 +2,8 @@
 Changelog for package rrbot_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.3 (2018-06-04)
+------------------
 * Add joint_state_publisher dependency
 * Contributors: Victor Lopez
 
