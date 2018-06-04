@@ -2,8 +2,8 @@
 Changelog for package rrbot_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2018-06-04)
+------------------
 * Install rrbot_launch launch directory
 * Contributors: Victor Lopez
 
