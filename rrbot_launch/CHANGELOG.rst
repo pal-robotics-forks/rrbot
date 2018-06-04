@@ -2,6 +2,11 @@
 Changelog for package rrbot_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Install rrbot_launch launch directory
+* Contributors: Victor Lopez
+
 1.0.0 (2018-06-04)
 ------------------
 * Add missing exec dependencies
