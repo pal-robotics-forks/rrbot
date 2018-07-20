@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rrbot_hw</name>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
   <description>Provides the hardware definition and interfaces to real/sim devices</description>
 
   <!-- this should be updated -->
