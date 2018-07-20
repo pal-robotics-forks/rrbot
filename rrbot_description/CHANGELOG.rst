@@ -2,6 +2,11 @@
 Changelog for package rrbot_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* added launch file to upload model
+* Contributors: Hilario Tome
+
 1.0.3 (2018-06-04)
 ------------------
 
