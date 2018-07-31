@@ -2,6 +2,14 @@
 Changelog for package rrbot_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'bleding_fix' into 'master'
+  Add local control joint config files
+  See merge request robots/rrbot!2
+* Add local control joint config files
+* Contributors: Adrià Roig, Victor Lopez
+
 1.0.5 (2018-07-20)
 ------------------
 
