@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rrbot_controllers</name>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <description>The rrbot_controllers package</description>
 
   <maintainer email="adria.roig@pal-robotics.com">Adrià Roig</maintainer>

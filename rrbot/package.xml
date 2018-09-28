@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rrbot</name>
-  <version>1.0.6</version>
+  <version>1.0.7</version>
   <description>The rrbot package</description>
 
   <maintainer email="cjrosales@gmail.com">Carlos Rosales</maintainer>
