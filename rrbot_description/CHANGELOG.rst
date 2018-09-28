@@ -2,6 +2,9 @@
 Changelog for package rrbot_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.6 (2018-07-31)
 ------------------
 

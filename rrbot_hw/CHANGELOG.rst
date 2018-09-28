@@ -2,6 +2,14 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'remove-metapkg-dependency' into 'master'
+  Remove ros_controllers dependency
+  See merge request robots/rrbot!3
+* Remove ros_controllers dependency
+* Contributors: Victor Lopez
+
 1.0.6 (2018-07-31)
 ------------------
 

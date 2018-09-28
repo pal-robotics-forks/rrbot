@@ -2,6 +2,9 @@
 Changelog for package rrbot_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.6 (2018-07-31)
 ------------------
 * Merge branch 'bleding_fix' into 'master'

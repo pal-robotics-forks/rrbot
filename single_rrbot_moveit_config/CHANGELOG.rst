@@ -2,6 +2,9 @@
 Changelog for package single_rrbot_moveit_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.6 (2018-07-31)
 ------------------
 
