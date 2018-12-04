@@ -2,6 +2,11 @@
 Changelog for package rrbot_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add xacro dependency
+* Contributors: Victor Lopez
+
 1.0.7 (2018-09-28)
 ------------------
 

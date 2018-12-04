@@ -2,6 +2,9 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.7 (2018-09-28)
 ------------------
 * Merge branch 'remove-metapkg-dependency' into 'master'
