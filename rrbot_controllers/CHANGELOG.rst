@@ -2,8 +2,8 @@
 Changelog for package rrbot_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.9 (2019-03-18)
+------------------
 * Merge branch 'added_extra_params' into 'master'
   added extra actuator params
   See merge request robots/rrbot!4
