@@ -16,6 +16,7 @@
 
   <run_depend>rrbot_description</run_depend>
   <run_depend>gazebo_ros</run_depend>
+  <run_depend>pal_hardware_gazebo</run_depend>
 
   <export>
   </export>
