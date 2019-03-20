@@ -167,7 +167,8 @@
   <transmission name="single_rrbot_tran1">
     <type>transmission_interface/SimpleTransmission</type>
     <joint name="single_rrbot_joint1">
-      <hardwareInterface>PositionJointInterface</hardwareInterface>
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="single_rrbot_motor1">
       <mechanicalReduction>1</mechanicalReduction>
@@ -176,17 +177,19 @@
   <transmission name="single_rrbot_tran2">
     <type>transmission_interface/SimpleTransmission</type>
     <joint name="single_rrbot_joint2">
-      <hardwareInterface>PositionJointInterface</hardwareInterface>
+      <hardwareInterface>hardware_interface/PositionJointInterface</hardwareInterface>
+      <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
     </joint>
     <actuator name="single_rrbot_motor2">
       <mechanicalReduction>1</mechanicalReduction>
     </actuator>
   </transmission>
   <gazebo>
-    <plugin filename="librrbot_hw_sim_plugin.so" name="single_rrbot_hw_sim_plugin">
-      <robotNamespace>single_rrbot</robotNamespace>
-      <!-- add your custom sim behavior -->
-      <robotSimType>rrbot_hw/DefaultRRBOTHWSim</robotSimType>
+    <plugin filename="libgazebo_ros_control.so" name="gazebo_ros_control">
+      <ns></ns>
+      <robotSimType>pal_hardware_gazebo/PalHardwareGazebo</robotSimType>
+      <robotNamespace></robotNamespace>
+      <controlPeriod>0.001</controlPeriod>
     </plugin>
   </gazebo>
   <gazebo reference="single_rrbot_link1">
