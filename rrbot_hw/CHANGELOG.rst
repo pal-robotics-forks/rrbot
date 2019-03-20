@@ -2,6 +2,14 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'fix_missing_hw_plugins' into 'master'
+  fix missing rrbot_hw plugins not installed
+  See merge request robots/rrbot!5
+* fix missing rrbot_hw plugins not installed
+* Contributors: Adria Roig, Victor Lopez
+
 1.0.9 (2019-03-18)
 ------------------
 
