@@ -2,6 +2,9 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.10 (2019-03-20)
 -------------------
 * Merge branch 'fix_missing_hw_plugins' into 'master'

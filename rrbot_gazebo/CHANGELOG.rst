@@ -2,6 +2,14 @@
 Changelog for package rrbot_gazebo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'gravity_controller' into 'master'
+  multiple hardware interface type
+  See merge request robots/rrbot!6
+* multiple hardware interface type
+* Contributors: Adria Roig, Victor Lopez
+
 1.0.10 (2019-03-20)
 -------------------
 
