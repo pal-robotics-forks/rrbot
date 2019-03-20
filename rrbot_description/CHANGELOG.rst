@@ -2,8 +2,8 @@
 Changelog for package rrbot_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.11 (2019-03-20)
+-------------------
 * Merge branch 'gravity_controller' into 'master'
   multiple hardware interface type
   See merge request robots/rrbot!6
