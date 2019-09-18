@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rrbot_transmission</name>
-  <version>1.0.11</version>
+  <version>2.0.0</version>
   <description>The rrbot_transmission package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 

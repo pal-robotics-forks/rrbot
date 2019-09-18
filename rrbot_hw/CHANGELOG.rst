@@ -2,8 +2,8 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.0 (2019-09-18)
+------------------
 * Merge branch 'ferrum-fixes' into 'ferrum-devel'
   Ferrum fixes
   See merge request robots/rrbot!7
