@@ -2,6 +2,15 @@
 Changelog for package rrbot_hw
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'ferrum-fixes' into 'ferrum-devel'
+  Ferrum fixes
+  See merge request robots/rrbot!7
+* Support for gazeebo 9
+* Added SYSTEM to include_directories
+* Contributors: Jordan Palacios
+
 1.0.11 (2019-03-20)
 -------------------
 

@@ -2,6 +2,9 @@
 Changelog for package rrbot_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.0.11 (2019-03-20)
 -------------------
 * Merge branch 'gravity_controller' into 'master'
