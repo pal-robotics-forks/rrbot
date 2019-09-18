@@ -261,16 +261,7 @@ public:
   {
     for(unsigned int j=0; j < num_joints_; j++)
     {
-      // Gazebo has an interesting API...
-      if (joint_types_[j] == urdf::Joint::PRISMATIC)
-      {
-        joint_position_[j] = sim_joints_[j]->GetAngle(0).Radian();
-      }
-      else
-      {
-        joint_position_[j] += angles::shortest_angular_distance(joint_position_[j],
-                              sim_joints_[j]->GetAngle(0).Radian());
-      }
+      joint_position_[j] = sim_joints_[j]->Position();
       joint_velocity_[j] = sim_joints_[j]->GetVelocity(0);
       joint_effort_[j] = sim_joints_[j]->GetForce((unsigned int)(0));
     }
@@ -373,7 +364,7 @@ private:
 
     if (urdf_model != NULL)
     {
-      const boost::shared_ptr<const urdf::Joint> urdf_joint = urdf_model->getJoint(joint_name);
+      urdf::JointConstSharedPtr urdf_joint = urdf_model->getJoint(joint_name);
       if (urdf_joint != NULL)
       {
         *joint_type = urdf_joint->type;
